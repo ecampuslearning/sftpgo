@@ -57,7 +57,7 @@ require (
 	github.com/spf13/afero v1.11.0
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/viper v1.19.0
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	github.com/studio-b12/gowebdav v0.9.0
 	github.com/subosito/gotenv v1.6.0
 	github.com/unrolled/secure v1.15.0
@@ -67,7 +67,7 @@ require (
 	go.etcd.io/bbolt v1.3.10
 	go.uber.org/automaxprocs v1.5.3
 	gocloud.dev v0.39.0
-	golang.org/x/crypto v0.26.0
+	golang.org/x/crypto v0.32.0
 	golang.org/x/net v0.28.0
 	golang.org/x/oauth2 v0.22.0
 	golang.org/x/sys v0.24.0
@@ -109,7 +109,7 @@ require (
 	github.com/fatih/color v1.17.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/fsnotify/fsnotify v1.7.0 // indirect
-	github.com/go-jose/go-jose/v4 v4.0.4 // indirect
+	github.com/go-jose/go-jose/v4 v4.0.5 // indirect
 	github.com/go-logr/logr v1.4.2 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-ole/go-ole v1.3.0 // indirect
